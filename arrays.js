@@ -29,5 +29,6 @@ function destructivelyRemoveElementFromBeginningOfArray (array) {
    return array.shift()
 }
 
-var array = [`shit`, `damn`]
-console.log(array.unshift(`foo`))
+var superheroines = ["catwoman", "she-hulk", "mystique"];
+ 
+console.log(superheroines.push("wonder woman");)

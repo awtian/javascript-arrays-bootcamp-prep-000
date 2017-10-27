@@ -31,3 +31,4 @@ function destructivelyRemoveElementFromBeginningOfArray (array) {
 
 array = [1]
 console.log(destructivelyAddElementToBeginningOfArray(array, 'foo'))
+console.log(array.unshift('foo'))

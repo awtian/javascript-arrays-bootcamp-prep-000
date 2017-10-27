@@ -30,5 +30,5 @@ function destructivelyRemoveElementFromBeginningOfArray (array) {
 }
 
 var superheroines = ["catwoman", "she-hulk", "mystique"];
- 
-console.log(superheroines.push("wonder woman");)
+
+console.log(superheroines.push("wonder woman"))

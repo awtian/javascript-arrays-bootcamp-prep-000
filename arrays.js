@@ -44,6 +44,3 @@ function removeElementFromEndOfArray (array) {
   return array
 }
 
-array = [1,2,3]
-console.log(array.shift())
-console.log(array)

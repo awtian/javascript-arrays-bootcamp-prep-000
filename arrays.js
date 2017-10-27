@@ -28,3 +28,6 @@ function accessElementInArray (array, index) {
 function destructivelyRemoveElementFromBeginningOfArray (array) {
    return array.shift()
 }
+
+array = [1]
+console.log(destructivelyAddElementToBeginningOfArray(array, 'foo'))

@@ -43,5 +43,4 @@ function removeElementFromEndOfArray (array) {
   array.slice(0, array.lenght - 1)
   return array
 }
-console.log(destructivelyRemoveElementFromBeginningOfArray([1, 2, 3]))
 

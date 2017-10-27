@@ -30,7 +30,3 @@ function accessElementInArray (array, index) {
 function destructivelyRemoveElementFromBeginningOfArray (array) {
    return array.shift()
 }
-
-var superheroines = ["catwoman", "she-hulk", "mystique"];
-
-console.log(superheroines.push("wonder woman"))

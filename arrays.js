@@ -30,4 +30,4 @@ function destructivelyRemoveElementFromBeginningOfArray (array) {
 }
 
 array = [1]
-console.log(destructivelyAddElementToBeginningOfArray(array, 'foo'))
+destructivelyAddElementToBeginningOfArray(array, 'foo')
